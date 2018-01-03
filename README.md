@@ -1,0 +1,1 @@
+"# dhtmlxGridAngular2Issue" 
